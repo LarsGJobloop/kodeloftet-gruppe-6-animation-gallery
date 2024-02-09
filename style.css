@@ -1,3 +1,22 @@
 body {
-  background-color: cornflowerblue;
+  margin: 0px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  text-align: center;
+  background-color: #461c7c;
+  color: white;
+}
+
+main {
+  flex-grow: 1;
+}
+
+footer {
+  text-align: center;
+  background-color: #461c7c;
+  color: white;
 }
