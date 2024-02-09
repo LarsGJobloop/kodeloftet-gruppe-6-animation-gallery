@@ -20,3 +20,17 @@ footer {
   background-color: #461c7c;
   color: white;
 }
+
+.animation-example {
+  display: flex;
+}
+
+.display {
+  height: 100%;
+  width: 50%;
+  background-color: cadetblue;
+}
+
+.details {
+  width: 50%;
+}
